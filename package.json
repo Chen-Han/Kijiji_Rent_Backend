@@ -1,0 +1,13 @@
+{
+  "name": "nodetest1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "kijiji-scraper":"*",
+    "cheerio":"*",
+    "request":"*"
+  }
+}
